@@ -1,3 +1,6 @@
+FROM : https://git.iiens.net/nunes2020/twittermosaic/-/tree/master
+BY : Adrien NUNES 
+
 # TwitterMosaic
 
 Création d'un mosaique d'une photo de profil d'un compte Twitter via ses followers/following
@@ -18,3 +21,4 @@ Avec le compte @SamuelEtienne
 
 Avec Tirage unique :
 ![](demo/uniq.jpg)
+
